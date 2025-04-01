@@ -10,10 +10,7 @@ This CRUD application allows users to create, read, update, and delete records i
 - **Delete**: Remove records from the database.  
 
 ## Technologies Used  
-- **Frontend**: [React.js, Vue.js, etc.]  
-- **Backend**: [Node.js, Express.js, etc.]  
-- **Database**: [MongoDB, PostgreSQL, etc.]  
-- **Styling**: [CSS, Bootstrap, Tailwind CSS, etc.]  
+- **Frontend**
 
 ## Installation  
 
@@ -21,9 +18,3 @@ This CRUD application allows users to create, read, update, and delete records i
 Make sure you have the following installed:  
 - [Node.js](https://nodejs.org/) (version x.x.x)  
 - [npm](https://www.npmjs.com/) (or yarn)  
-
-### Step-by-Step Setup  
-
-1. **Clone the repository**:  
-   ```bash  
-   git clone https://github.com/username/repo-name.git  
